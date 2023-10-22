@@ -1,0 +1,2 @@
+# YandexPracticumDiplomaQA
+YandexPracticumDiplomaQA 
